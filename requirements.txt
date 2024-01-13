@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+missingno
+scikit-learn
+Flask
+joblib
+missingno
+scipy
+OneHotEncoder
+LabelEncoder
+xgboost
